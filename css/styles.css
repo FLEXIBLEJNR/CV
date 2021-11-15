@@ -1,0 +1,49 @@
+
+     
+/***************************Tag Selector********************/
+
+p {
+    color: red;
+  }
+  body {
+    background-color: #e5eece
+  }
+
+
+
+
+h1{
+color: #66bfbf;
+}
+
+h2{
+color: #66bfbf; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img:hover {
+background-color: rgb(105, 91, 12);
+}
+div{
+    background-color: #E4F9F5;
+}
+
+th{
+color: rgb(69, 217, 236); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+td{
+font-family: 'Times New Roman', Times, serif;
+}
+/***************************Class Selector******************/
+.taopics {
+    background-color: black; border-radius: 100%;
+}
+/**************************Id Selector***********************/
+#heading {
+    color: green;
+    }
+    #page{
+        border-style: 100%; padding: 2%; border: solid black 10px;
+    }
+    #contact{
+        padding: 2%; border: solid black 10px;
+    }
